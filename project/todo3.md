@@ -39,4 +39,4 @@
 - [x] local variables
 - [x] function usage in expressions
 - [x] make tests
-- [ ] mooshak
+- [x] mooshak
